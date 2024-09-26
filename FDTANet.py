@@ -1,6 +1,3 @@
-#This is an incomplete version, we will make all the code publicly available later
-
-
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
