@@ -13,8 +13,7 @@ The following is a BibTeX reference:
 
 ```
 @article{gao2024Frequency,
-  title={Frequency Domain-Based Task-Adaptive Network for Restoring Images with Combined Degradations
-},
+  title={Frequency Domain-Based Task-Adaptive Network for Restoring Images with Combined Degradations},
   author={Hu, Gao and Bowen, Ma and Ying, Zhang and Jingfan, Yang and Jing, Yang and Depeng, Dang},
   journal={Pattern Recognition},
   year={2024}
